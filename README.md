@@ -6,3 +6,4 @@
 ## Part II Chapters
 - [ ] Chapter Four: Managing Local Changes and History
 - [ ] Chapter Five: Git Workflow
+## By: Natnael Argaw (PhD)
